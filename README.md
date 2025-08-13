@@ -25,10 +25,3 @@ It can summarize, explain, and answer questions based on either direct text inpu
 2. The bot extracts and processes the content.
 3. LLM + RAG pipeline generates summaries, explanations, and answers to user queries.
 4. Results are sent back in clear, student-friendly language.
-
-## 📦 Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/StudyEasyBot.git
-   cd StudyEasyBot
-
